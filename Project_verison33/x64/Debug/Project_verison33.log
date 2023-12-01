@@ -1,0 +1,11 @@
+﻿  Altscreen.c
+C:\Users\semil\Documents\School work\3rd year SK\System Analysis- 3401\Project\Versions\Version 3\Altscreen.c(45,6): warning C4101: 'val': unreferenced local variable
+  MoveVehicle.c
+C:\Users\semil\Documents\School work\3rd year SK\System Analysis- 3401\Project\Versions\Version 3\MoveVehicle.c(26,15): warning C4028: formal parameter 1 different from declaration
+C:\Users\semil\Documents\School work\3rd year SK\System Analysis- 3401\Project\Versions\Version 3\MoveVehicle.c(26,25): warning C4028: formal parameter 2 different from declaration
+  VT100.c
+C:\Users\semil\Documents\School work\3rd year SK\System Analysis- 3401\Project\Versions\Version 3\VT100.c(81,35): warning C4090: 'function': different 'const' qualifiers
+  Generating Code...
+C:\Users\semil\Documents\School work\3rd year SK\System Analysis- 3401\Project\Versions\Version 3\MoveVehicle.c(255): warning C4715: 'streetdir': not all control paths return a value
+C:\Users\semil\Documents\School work\3rd year SK\System Analysis- 3401\Project\Versions\Version 3\MoveVehicle.c(274): warning C4715: 'avenuedir': not all control paths return a value
+  Project_verison33.vcxproj -> C:\Users\semil\Documents\School work\3rd year SK\System Analysis- 3401\Project\Versions\Version 3\Project_verison33\x64\Debug\Project_verison33.exe
